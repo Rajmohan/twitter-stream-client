@@ -45,7 +45,7 @@ public class TwitterStreamClient {
 				i += 2;
 			}
 			else {
-				System.out.println(	"Usage: run.sh -track \"keyword1,keyword2\" -locations \"lat1,long1\" ");
+				System.out.println(	"  Usage: run.sh -track \"keyword1,keyword2\" -locations \"lat1,long1\" ");
 				return;
 			}
 
